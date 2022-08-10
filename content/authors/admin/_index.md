@@ -18,9 +18,8 @@ bio: My research interests include Econometrics, Causal Inference and Machine Le
 
 # Interests to show in About widget
 interests:
-  - Econometrics
-  - Causal Inferece
-  - Machine Learning
+  - Individualized treatment rule
+  - External validity
 
 # Education to show in About widget
 education:
@@ -42,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kido.daidou.45m@st.kyoto-u.ac.jp'
+    link: "mailto:kido.daidou.45m@st.kyoto-u.ac.jp"
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6oHLMIUAAAAJ
@@ -69,6 +68,6 @@ email: 'kido.daidou.45m@st.kyoto-u.ac.jp'
 highlight_name: true
 ---
 
-I'm a PhD Student at Graduate School of Economics, Kyoto University. My interests include Econometrics and Causal Inference.
+I'm a PhD Student at Graduate School of Economics, Kyoto University. My research field includes Econometrics and Causal Inference.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
