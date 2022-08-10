@@ -54,9 +54,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Daido-Kido
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/cv.pdf
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -70,4 +70,4 @@ highlight_name: true
 
 I'm a PhD Student at Graduate School of Economics, Kyoto University. My research field includes Econometrics and Causal Inference.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
