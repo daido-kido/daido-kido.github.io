@@ -14,26 +14,26 @@ organizations:
     url: https://www.econ.kyoto-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Econometrics, Causal Inference and Machine Learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Econometrics
+  - Causal Inferece
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: MA in Economics
+      institution: Kyoto University
+      year: 2019
+    - course: BA in Economics
+      institution: Kyoto University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,9 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'kido.daidou.45m@st.kyoto-u.ac.jp'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6oHLMIUAAAAJ
@@ -74,4 +71,4 @@ highlight_name: true
 
 I'm a PhD Student at Graduate School of Economics, Kyoto University. My interests include Econometrics and Causal Inference.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
