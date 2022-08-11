@@ -14,7 +14,7 @@ organizations:
     url: https://www.econ.kyoto-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometrics, Causal Inference and Machine Learning.
+bio: PhD Student at the Graduate School of Economics, Kyoto University
 
 # Interests to show in About widget
 interests:
