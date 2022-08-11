@@ -25,8 +25,8 @@ doi: '10.48550/ARXIV.2205.04637'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper
-publication_short: Working paper
+publication: arXiv preprint
+publication_short: arXiv
 
 abstract: The effects of treatments are often heterogeneous, depending on the observable characteristics, and it is necessary to exploit such heterogeneity to devise individualized treatment rules (ITRs). Existing estimation methods of such ITRs assume that the available experimental or observational data are derived from the target population in which the estimated policy is implemented. However, this assumption often fails in practice because of limited useful data. In this case, policymakers must rely on the data generated in the source population, which differs from the target population. Unfortunately, existing estimation methods do not necessarily work as expected in the new setting, and strategies that can achieve a reasonable goal in such a situation are required. This study examines the application of distributionally robust optimization (DRO), which formalizes an ambiguity about the target population and adapts to the worst-case scenario in the set. It is shown that DRO with Wasserstein distance-based characterization of ambiguity provides simple intuitions and a simple estimation method. I then develop an estimator for the distributionally robust ITR and evaluate its theoretical performance. An empirical application shows that the proposed approach outperforms the naive approach in the target population.
 
