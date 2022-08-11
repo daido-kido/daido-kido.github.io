@@ -14,7 +14,7 @@ organizations:
     url: https://www.econ.kyoto-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student at the Graduate School of Economics, Kyoto University
+bio: Graduate School of Economics, Kyoto University
 
 # Interests to show in About widget
 interests:
@@ -68,6 +68,6 @@ email: 'kido.daidou.45m@st.kyoto-u.ac.jp'
 highlight_name: true
 ---
 
-I'm a PhD Student at Graduate School of Economics, Kyoto University. My research field includes Econometrics and Causal Inference.
+Daido Kido is a PhD Student at Graduate School of Economics, Kyoto University. His research field is Econometrics and Causal Inference.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
