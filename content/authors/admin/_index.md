@@ -68,6 +68,6 @@ email: 'kido.daidou.45m@st.kyoto-u.ac.jp'
 highlight_name: true
 ---
 
-Daido Kido is a PhD Student at Graduate School of Economics, Kyoto University. His research field is Econometrics and Causal Inference.
+Daido Kido is a PhD Student at Graduate School of Economics, Kyoto University. His research fields are Econometrics and Causal Inference.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
