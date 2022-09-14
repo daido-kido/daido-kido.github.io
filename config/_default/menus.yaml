@@ -5,13 +5,13 @@
 
 main:
   - name: Home
-    url: '/#about'
+    url: '/'
     weight: 10
   - name: Research
-    url: research/
+    url: 'research/'
     weight: 20
   - name: Research
-    url: research/#working-paper
+    url: 'research/#working-paper'
     weight: 10
   # # - name: Talks
   # #   url: /#talks
