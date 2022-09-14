@@ -9,16 +9,16 @@ headless: true
 active: false
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
-title: Research
+title: Working Papers
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - research/workingpaper
+      - research/publication
     tag: ''
     category: ''
     publication_type: '3'
