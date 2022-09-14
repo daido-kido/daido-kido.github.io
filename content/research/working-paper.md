@@ -9,16 +9,16 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
-title: Working Papers
-subtitle: ''
+title: Research
+subtitle: 'Working Papers'
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - research/working-paper
+      - papers/working-paper
     tag: ''
     category: ''
     publication_type: '3'
@@ -35,9 +35,9 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./research/working-paper).
+Quickly discover relevant content by [filtering publications](./papers/working-paper).
 {{% /callout %}}
