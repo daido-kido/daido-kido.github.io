@@ -10,7 +10,7 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Graduate School of Economics, Kyoto Univeristy
+  - name: Graduate School of Economics Kyoto Univeristy
     url: https://www.econ.kyoto-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
