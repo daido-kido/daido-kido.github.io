@@ -9,6 +9,8 @@ authors:
   - admin
   - Yoshiharu Ichikawa
 
+type: publication
+
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'

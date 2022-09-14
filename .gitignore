@@ -8,3 +8,13 @@ jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
+
+# personal files
+static/uploads/curriculum-vitae/CV.aux
+static/uploads/curriculum-vitae/CV.log
+static/uploads/curriculum-vitae/CV.out
+static/uploads/curriculum-vitae/CV.synctex.gz
+static/uploads/curriculum-vitae/CV.tex
+static/uploads/curriculum-vitae/sections/*
+static/uploads/curriculum-vitae/simplecv.sty
+

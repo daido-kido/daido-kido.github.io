@@ -70,4 +70,4 @@ highlight_name: true
 
 Daido Kido is a PhD Student at Graduate School of Economics, Kyoto University. His research fields are Econometrics and Causal Inference.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my CV from {{< staticref "uploads/curriculum-vitae/CV.pdf" "newtab" >}}here{{< /staticref >}}.

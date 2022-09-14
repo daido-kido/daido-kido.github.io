@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: classic
   font_size: L
 
 # SEO
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Aug 11, 2022'
-  time_format: '8:50 PM'
+  date_format: 'Sep 15, 2022'
+  time_format: '1:30 AM'
   address_format: en-us
 
 # Site features

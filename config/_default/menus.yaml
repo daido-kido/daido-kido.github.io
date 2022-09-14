@@ -8,17 +8,19 @@ main:
     url: '/'
     weight: 10
   - name: Research
-    url: 'publication/'
+    identifier: research
     weight: 20
-  # - name: Research
-  #   url: 'research/#working-paper'
-  #   weight: 10
-  # # - name: Talks
-  # #   url: /#talks
-  # #   weight: 30
-  # - name: CV
-  #   url: uploads/cv.pdf
-  #   weight: 30
+  - name: Working Papers
+    parent: research
+    url: research/working-paper
+    weight: 10
+  - name: Publications
+    parent: research
+    url: research/publication
+    weight: 20
+  - name: CV
+    url: uploads/curriculum-vitae/CV.pdf
+    weight: 30
   # - name: demo
   #   url: /#demo
   #   weight: 40

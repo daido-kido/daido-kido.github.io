@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Working Papers
 cms_exclude: true
 
 # View.
@@ -7,10 +7,10 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-View: 4
+View: 1
 
 # Optional header image (relative to `static/media` folder).
 header:
     caption: ''
-    image: ''
+    image: 'research_background.JPG'
 ---
