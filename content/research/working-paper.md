@@ -18,7 +18,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - research/publication
+      - research/working-paper
     tag: ''
     category: ''
     publication_type: '3'
@@ -39,5 +39,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](./research/working-paper).
 {{% /callout %}}
