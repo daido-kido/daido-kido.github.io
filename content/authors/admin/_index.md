@@ -6,20 +6,21 @@ title: Daido Kido
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Graduate School of Economics Kyoto Univeristy
-    url: https://www.econ.kyoto-u.ac.jp/en/
+  - name: Department of Economics, Otaru University of Commerce
+    url: https://english.otaru-uc.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate School of Economics, Kyoto University
+bio: Department of Economics, Otaru University of Commerce
 
 # Interests to show in About widget
 interests:
   - Individualized treatment rule
-  - External validity
+  - Partial identification
+  - Nondifferentiable parameters
 
 # Education to show in About widget
 education:
@@ -27,6 +28,9 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
+    - course: PhD in Economics
+      institution: Kyoto University
+      year: 2024
     - course: MA in Economics
       institution: Kyoto University
       year: 2019
@@ -41,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:kido.daidou.45m@st.kyoto-u.ac.jp"
+    link: "mailto:daido.kido@gmail.com"
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6oHLMIUAAAAJ
@@ -62,12 +66,12 @@ social:
 # and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kido.daidou.45m@st.kyoto-u.ac.jp'
+email: 'daido.kido@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Daido Kido is a PhD Student at Graduate School of Economics, Kyoto University. His research fields are Econometrics and Causal Inference.
+Daido Kido is an associate professor at Department of Economics, Otaru University of Commerce. His research fields are Econometrics and Causal Inference.
 
 {{< icon name="download" pack="fas" >}} Download my CV from {{< staticref "uploads/curriculum-vitae/CV.pdf" "newtab" >}}here{{< /staticref >}}.
