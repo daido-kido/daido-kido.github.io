@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:daido.kido@gmail.com"
+    link: "mailto:dkido@res.otaru-uc.ac.jp"
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6oHLMIUAAAAJ
@@ -66,7 +66,7 @@ social:
 # and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'daido.kido@gmail.com'
+email: 'dkido@res.otaru-uc.ac.jp'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

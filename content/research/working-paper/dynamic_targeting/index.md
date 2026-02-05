@@ -1,13 +1,17 @@
 ---
-title: 'Does the usage of TV streaming on the Internet bring about new functions to the public service broadcaster? : Evidence from a randomized field experiment'
+title: 'Dynamic Targeting: Experimental Evidence from Energy Rebate Programs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Toshifumi Kuroda
+  - Takanori Ida
+  - Takunori Ishihara
+  - Koichiro Ito
   - admin
-  - Yoshiharu Ichikawa
+  - Toru Kitagawa
+  - Shosei Sakaguchi
+  - Shusaku Sasaki
 
 type: publication
 
@@ -16,8 +20,8 @@ type: publication
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2016-01-01T00:00:00Z'
-# doi: ''
+date: '2024-06-01T00:00:00Z'
+doi: '10.3386/w32561'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -29,10 +33,10 @@ date: '2016-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: Working paper
-# publication_short: Working paper
+# publication: "*Econometrica, 94*(1)"
+# publication_short: arXiv
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Economic policies often involve dynamic interventions, where individuals receive repeated interventions over multiple periods. This dynamics makes past responses informative to predict future responses and ultimate outcomes depend on the history of interventions. Despite these phenomena, existing economic studies typically focus on static targeting, possibly overlooking key information from dynamic interventions. We develop a framework for designing optimal dynamic targeting that maximizes social welfare gains from dynamic policy intervention. Our framework can be applied to experimental or quasi-experimental data with sequential randomization. We demonstrate that dynamic targeting can outperform static targeting through several key mechanisms: learning, habit formation, and screening effects. We then propose methods to empirically identify these effects. By applying this method to a randomized controlled trial on a residential energy rebate program, we show that dynamic targeting significantly outperforms conventional static targeting, leading to improved social welfare gains. We observe significant heterogeneity in the learning, habit formation, and screening effects, and illustrate how our approach leverages this heterogeneity to design optimal dynamic targeting.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://www.nber.org/system/files/working_papers/w32561/w32561.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
